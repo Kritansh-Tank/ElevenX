@@ -55,3 +55,7 @@ To get this project running on your local machine, follow these simple steps:
 - **React Router DOM**: For managing navigation and routing within the app.
 - **Framer Motion**: For adding animations and transitions.
 - **React Draggable**: For making elements draggable.
+
+## License
+
+MIT License - See LICENSE file for details
